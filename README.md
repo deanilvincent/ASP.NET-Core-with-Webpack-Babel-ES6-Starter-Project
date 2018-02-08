@@ -4,7 +4,6 @@ This repository will help you get started with ASP.NET Core with Webpack+Babel+E
 
 <img src="https://raw.githubusercontent.com/deanilvincent/ASP.NETCore-with-Webpack-Babel-ES6/master/image01.PNG" />
 
-# License:
+### License
 
-This project is licensed under the MIT License - see the <a href="https://github.com/deanilvincent/ASP.NETCore-with-Webpack-Babel-ES6/blob/master/LICENSE.md>LICENSE.md</a> file for details
-
+This project is licensed under the MIT License - see the [LICENSE.md]LICENSE.md file for details.
